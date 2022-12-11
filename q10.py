@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec 10 14:50:44 2022
-
-@author: vigne
-"""
-
 from re import search
 import copy
 text = "C:/Users/vigne/Downloads/wordle.txt"
