@@ -71,13 +71,5 @@ def exercise10(green,yellow,gray):
         
     print(min(exercise10_list))
 
-    
-            
-#### USE THIS TO RUN THE ENTIRE THING
 exercise10(green = {1:'i',3:'c'}, yellow = {'e':{3}},gray = {'r','a','s','d','f'})
     
-#print(  
-
-# green = {'i':1,3:'c'}
-# for i in green:
-#     print(green[i])
